@@ -1,0 +1,6 @@
+custom_country_timeloaction.admin_config_bpost:
+  title: 'Custom Country Timezone'
+  route_name: custom_country_timeloaction.admin_settings_form
+  parent: system.admin_config
+  description: 'Configure country settings.'
+  weight: -12

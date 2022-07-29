@@ -1,0 +1,9 @@
+<?php
+
+function custom_country_timeloaction_theme($existing, $type, $theme, $path) {
+  return [
+    'country_datetime' => [
+    'variables' => ['country' => NULL,'city' => NULL, 'time' => NULL],
+    ],
+  ];
+}

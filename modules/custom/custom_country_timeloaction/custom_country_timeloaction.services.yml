@@ -1,0 +1,4 @@
+services:
+  custom_country_timeloaction.custom_services:
+    class: Drupal\custom_country_timeloaction\CustomTimeService
+    arguments: ['@date.formatter']

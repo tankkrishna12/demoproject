@@ -1,0 +1,5 @@
+name: Country Time Location  
+type: module  
+description: Display a Time and Location based on Coutry and City  
+core_version_requirement: ^8 || ^9
+package: Custom
